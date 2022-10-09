@@ -1,2 +1,2 @@
-# testtask
-testtask2022
+# infomap
+infomap2022
